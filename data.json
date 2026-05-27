@@ -118,22 +118,32 @@
     }
   ],
   "vision": {
-    "intro": "A targeted way to apply strategy principles to building an AI app is to move beyond the controlled comfort of the technical build and focus on the competitive outcome: why users will actually change their behavior to adopt the product.",
+    "intro": "The best AI products don't announce themselves. They disappear.",
     "pillars": [
       {
-        "title": "The \"Comfort Trap\" of the Tech Stack",
+        "title": "The Comfort Trap of the Technical Build",
         "icon": "🎯",
-        "content": "Developers often focus entirely on the technical build: selecting AI models, writing code, and designing a UI. Those activities feel comforting because you control the inputs and costs, but that is planning, not strategy. A true strategy asks the harder question: why will customers actually want and use the app? The code is controllable; user behavior is not. The strategic edge is explaining why someone will change how they work to adopt the tool."
+        "content": "Developers love controllable inputs: model selection, architecture, clean code. That is planning, and it feels good because you can measure it. Strategy is messier. It asks why a user will actually change how they work to adopt your product. The code is yours; user behavior is not. The edge is bridging that gap, and doing it fast."
       },
       {
-        "title": "Design Integrative Choices",
+        "title": "Leading Through Uncertainty",
+        "icon": "⚡",
+        "content": "Here is what separates management from leadership. Management optimizes for certainty: predictable roadmaps, known costs, guaranteed outcomes. Leadership accepts that in AI markets, perfect information does not exist. You cannot know how users will react, how competitors will move, how models will evolve. You place bets anyway. I run teams using Claude Code, Codex, and agentic workflows to collapse the distance between idea and working product. Not because I have perfect foresight, but because speed is how we learn. The goal is not replacing engineers, it is removing friction so strategic assumptions get tested in days, not quarters. When your organization can afford to be wrong, you can afford to do something great."
+      },
+      {
+        "title": "Reading the Market as It Forms",
+        "icon": "◐",
+        "content": "Markets for AI products do not exist in spreadsheets. They emerge in real time, shaped by user behavior you cannot fully predict and competitor moves you cannot control. My role is building teams that treat this volatility as raw material. We ship, we observe, we adapt. The alternative, waiting for clarity, guarantees you will build for a market that no longer exists."
+      },
+      {
+        "title": "Design Integrative, Invisible Choices",
         "icon": "✈️",
-        "content": "The lesson from Southwest Airlines is not merely picking a niche; it is making rigid, interconnected choices that reinforce the strategy. They standardized planes, removed meals, and bypassed travel agents to lower costs. An AI app needs equivalent trade-offs. Maybe the model is locked to a constrained dataset so it does not hallucinate, or the UI hides chat entirely to streamline one workflow. The goal is a coherent theory for why these constraints make the product better than anyone else at serving its chosen customers."
+        "content": "Southwest's genius was not picking cheap flights. It was locking together rigid, reinforcing choices: one aircraft type, no meals, no travel agents, 25-minute turns. Each constraint enabled the others. AI products need the same coherence. Maybe your model trains on a locked, narrow domain so hallucinations vanish. Maybe you kill the chat interface entirely because your user wants a finished report, not a conversation. The best implementations are invisible: the user gets exactly what they need, and never thinks about the model running underneath. These choices are uncomfortable because they foreclose options. Leadership means defending that discomfort so the team does not drift back to the safety of \"we can build anything.\""
       },
       {
         "title": "Test What Must Be True",
-        "icon": "⚡",
-        "content": "AI markets move too quickly for a massive roadmap to prove success in advance, and the resulting angst is a normal part of strategy. Use a single-page strategy and ask what must be true about the company, industry, competition, customers, model cost, model speed, and user trust for the plan to work. By defining those assumptions early, real usage becomes the mechanism for tweaking, honing, and refining the product."
+        "icon": "📋",
+        "content": "AI markets move too fast for five-year roadmaps. The anxiety of that uncertainty is not a bug, it is the job. I work with teams to define the leap-of-faith assumptions on a single page: company readiness, cost curves, user trust, model speed, competitive response. Then we build the smallest thing that validates or kills each assumption. You will not be perfect. You cannot know for sure. That is not being a bad manager; that is being a great leader, because you are giving your organization the chance to do something great."
       }
     ]
   }
