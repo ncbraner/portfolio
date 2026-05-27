@@ -111,6 +111,33 @@
       ]
     }
   ],
+  "projects": [
+    {
+      "name": "Nobraner Desktop",
+      "type": "Desktop AI Coordination Workspace",
+      "summary": "A local-first desktop command center for keeping repo workspaces, agent activity, runtime health, mail, transcripts, and project actions visible in one focused window.",
+      "screenshots": [
+        {
+          "src": "images/projects/nobraner-desktop/overview.png",
+          "alt": "Nobraner Desktop project workspace showing tracked repositories, project actions, runtime cards, and coordinator status."
+        },
+        {
+          "src": "images/projects/nobraner-desktop/mail.png",
+          "alt": "Nobraner Desktop recent mail view showing coordinator messages and project activity history."
+        },
+        {
+          "src": "images/projects/nobraner-desktop/features.png",
+          "alt": "Nobraner Desktop feature view showing workspace tabs, runtime status cards, and recent mail surfaces."
+        }
+      ],
+      "highlights": [
+        "Project rail for switching between tracked repositories without losing context",
+        "Workspace dashboard for active agents, ready tasks, recent runs, mail, and merge queue",
+        "Quick actions for opening the IDE, revealing folders, refreshing projects, and waking coordinators"
+      ],
+      "tags": ["Electron", "Desktop App", "Agentic Workflows", "Developer Tools"]
+    }
+  ],
   "education": [
     {
       "institution": "Western Iowa Tech Community College",
