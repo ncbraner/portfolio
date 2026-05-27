@@ -178,6 +178,21 @@
         "title": "Test What Must Be True",
         "icon": "📋",
         "content": "AI markets move too fast for five-year roadmaps. The anxiety of that uncertainty is not a bug, it is the job. I work with teams to define the leap-of-faith assumptions on a single page: company readiness, cost curves, user trust, model speed, competitive response. Then we build the smallest thing that validates or kills each assumption. You will not be perfect. You cannot know for sure. That is not being a bad manager; that is being a great leader, because you are giving your organization the chance to do something great."
+      },
+      {
+        "title": "Value Translation Over Code Output",
+        "icon": "🧠",
+        "content": "The role of a software engineer has never been simply to write code; it is to translate business requirements into user value. AI shatters the illusion that lines of code equal productivity. When coding becomes a commodity that models can generate, the real engineering shifts to system design, requirement definition, and outcome validation. I run workflows in agent mode not to write code faster, but to close the loop between user needs and delivered value. By delegating execution, teams can focus more clearly on the strategic why."
+      },
+      {
+        "title": "AI as a Magnifier of Foundations",
+        "icon": "🏗️",
+        "content": "AI does not replace rigorous engineering; it magnifies the software development life cycle you already have. If an organization lacks testing and CI/CD, agentic workflows will simply help it ship bugs to production faster. I build the DevOps foundation first: automated testing, visual deltas, and strict validation guardrails from day one. When the infrastructure is solid, AI can safely accelerate development because the team has systems in place to review, absorb, and measure the value of that code in production."
+      },
+      {
+        "title": "The Explorer Mindset",
+        "icon": "🧭",
+        "content": "Traditional engineering trains us to zoom in immediately and fix the problem in front of us. Building with AI requires taking a step back. I do not ask models for a single fix; I ask them to generate multiple architectural approaches so the team can evaluate tradeoffs. That inquisitive mindset helps us navigate complex systems and discover solutions we may not have considered. It transforms engineering from manual building into exploration and orchestration, with the goal of choosing the path that delivers the highest strategic return."
       }
     ]
   }
